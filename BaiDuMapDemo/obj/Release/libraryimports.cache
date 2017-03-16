@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <ManifestDocuments />
+  <NativeLibraries />
+  <Jars>
+    <Jar>obj\Release\__library_projects__\BaiDuMapBinding\library_project_imports\BaiduLBS_Android.jar</Jar>
+  </Jars>
+</Paths>

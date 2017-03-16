@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Devices>
+  <Device id="Coolpad5951-1a3a972">
+    <ResultingAbi>armeabi-v7a</ResultingAbi>
+    <SdkVersion>16</SdkVersion>
+  </Device>
+  <Device id="192.168.40.101:5555">
+    <ResultingAbi>x86</ResultingAbi>
+    <SdkVersion>23</SdkVersion>
+  </Device>
+</Devices>

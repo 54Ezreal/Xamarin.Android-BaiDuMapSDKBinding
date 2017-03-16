@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinBaiDuMapSDKBinding", "BaiDuMapBinding\XamarinBaiDuMapSDKBinding.csproj", "{77A552EC-400D-4268-8161-F21C3489FFC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinBaiDuMapDemo.Droid", "BaiDuMapDemo\XamarinBaiDuMapDemo.Droid.csproj", "{89E6211F-3A62-46D4-B1C5-D4056B6CC03D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77A552EC-400D-4268-8161-F21C3489FFC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A552EC-400D-4268-8161-F21C3489FFC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A552EC-400D-4268-8161-F21C3489FFC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A552EC-400D-4268-8161-F21C3489FFC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89E6211F-3A62-46D4-B1C5-D4056B6CC03D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E6211F-3A62-46D4-B1C5-D4056B6CC03D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E6211F-3A62-46D4-B1C5-D4056B6CC03D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{89E6211F-3A62-46D4-B1C5-D4056B6CC03D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E6211F-3A62-46D4-B1C5-D4056B6CC03D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89E6211F-3A62-46D4-B1C5-D4056B6CC03D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

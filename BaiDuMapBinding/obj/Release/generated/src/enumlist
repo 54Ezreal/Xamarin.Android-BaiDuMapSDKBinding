@@ -1,0 +1,10 @@
+com.baidu.location.LocationClientOption$LocationMode:Com.Baidu.Location:LocationClientOption.LocationMode
+com.baidu.mapapi.ModuleName:Com.Baidu.Mapapi:ModuleName
+com.baidu.mapapi.http.HttpClient$HttpStateError:Com.Baidu.Mapapi.Http:HttpClient.HttpStateError
+com.baidu.mapapi.map.LogoPosition:Com.Baidu.Mapapi.Map:LogoPosition
+com.baidu.mapapi.map.MapBaseIndoorMapInfo$SwitchFloorError:Com.Baidu.Mapapi.Map:MapBaseIndoorMapInfo.SwitchFloorError
+com.baidu.mapapi.map.MapViewLayoutParams$ELayoutMode:Com.Baidu.Mapapi.Map:MapViewLayoutParams.ELayoutMode
+com.baidu.mapapi.map.MarkerOptions$MarkerAnimateType:Com.Baidu.Mapapi.Map:MarkerOptions.MarkerAnimateType
+com.baidu.mapapi.map.MyLocationConfiguration$LocationMode:Com.Baidu.Mapapi.Map:MyLocationConfiguration.LocationMode
+com.baidu.platform.comapi.map.B:Com.Baidu.Platform.Comapi.Map:B
+com.baidu.platform.comapi.map.D:Com.Baidu.Platform.Comapi.Map:D

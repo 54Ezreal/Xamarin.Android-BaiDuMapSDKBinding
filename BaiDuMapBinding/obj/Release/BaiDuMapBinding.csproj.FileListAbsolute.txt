@@ -1,0 +1,6 @@
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\BaiDuMapBinding\BaiDuMapBinding\bin\Release\BaiDuMapBinding.dll
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\BaiDuMapBinding\BaiDuMapBinding\bin\Release\BaiDuMapBinding.pdb
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\BaiDuMapBinding\BaiDuMapBinding\obj\Release\BaiDuMapBinding.dll
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\BaiDuMapBinding\BaiDuMapBinding\obj\Release\BaiDuMapBinding.pdb
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\BaiDuMapBinding\BaiDuMapBinding\obj\Release\BaiDuMapBinding.dll.mdb
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\BaiDuMapBinding\BaiDuMapBinding\bin\Release\BaiDuMapBinding.dll.mdb

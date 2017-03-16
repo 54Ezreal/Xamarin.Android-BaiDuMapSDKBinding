@@ -1,0 +1,10 @@
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\BaiDuMapBinding\BaiDuMapBinding\bin\Debug\XamarinBaiDuMapSDKBinding.dll
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\BaiDuMapBinding\BaiDuMapBinding\bin\Debug\XamarinBaiDuMapSDKBinding.pdb
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\BaiDuMapBinding\BaiDuMapBinding\obj\Debug\XamarinBaiDuMapSDKBinding.dll
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\BaiDuMapBinding\BaiDuMapBinding\obj\Debug\XamarinBaiDuMapSDKBinding.pdb
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\BaiDuMapBinding\BaiDuMapBinding\obj\Debug\XamarinBaiDuMapSDKBinding.dll.mdb
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\BaiDuMapBinding\BaiDuMapBinding\bin\Debug\XamarinBaiDuMapSDKBinding.dll.mdb
+C:\Users\HuShuai\documents\visual studio 2017\Projects\BaiDuMapBinding\BaiDuMapBinding\obj\Debug\XamarinBaiDuMapSDKBinding.dll.mdb
+C:\Users\HuShuai\documents\visual studio 2017\Projects\BaiDuMapBinding\BaiDuMapBinding\bin\Debug\XamarinBaiDuMapSDKBinding.dll.mdb
+C:\Users\HuShuai\documents\visual studio 2017\Projects\BaiDuMapBinding\BaiDuMapBinding\obj\Debug\XamarinBaiDuMapSDKBinding.dll.mdb
+C:\Users\HuShuai\documents\visual studio 2017\Projects\BaiDuMapBinding\BaiDuMapBinding\bin\Debug\XamarinBaiDuMapSDKBinding.dll.mdb

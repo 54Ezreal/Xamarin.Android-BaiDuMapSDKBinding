@@ -1,0 +1,60 @@
+BaiDuMapDemo.MainActivity, XamarinBaiDuMapDemo.Droid;md57f1f6d050ebce6b59c57bf26de8f8d68.MainActivity
+BaiDuMapDemo.MainActivity, XamarinBaiDuMapDemo.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57f1f6d050ebce6b59c57bf26de8f8d68.MainActivity
+BaiDuMapDemo.MainActivity;md57f1f6d050ebce6b59c57bf26de8f8d68.MainActivity
+baidumapdemo.MainActivity;md57f1f6d050ebce6b59c57bf26de8f8d68.MainActivity
+Com.Baidu.Mapapi.Map.BaiduMap/IOnBaseIndoorMapListenerImplementor, XamarinBaiDuMapSDKBinding;mono.com.baidu.mapapi.map.BaiduMap_OnBaseIndoorMapListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap+IOnBaseIndoorMapListenerImplementor, XamarinBaiDuMapSDKBinding, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.baidu.mapapi.map.BaiduMap_OnBaseIndoorMapListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap.IOnBaseIndoorMapListenerImplementor;mono.com.baidu.mapapi.map.BaiduMap_OnBaseIndoorMapListenerImplementor
+mono.com.baidu.mapapi.map.BaiduMap_OnBaseIndoorMapListenerImplementor;mono.com.baidu.mapapi.map.BaiduMap_OnBaseIndoorMapListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap/IOnMapClickListenerImplementor, XamarinBaiDuMapSDKBinding;mono.com.baidu.mapapi.map.BaiduMap_OnMapClickListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap+IOnMapClickListenerImplementor, XamarinBaiDuMapSDKBinding, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.baidu.mapapi.map.BaiduMap_OnMapClickListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap.IOnMapClickListenerImplementor;mono.com.baidu.mapapi.map.BaiduMap_OnMapClickListenerImplementor
+mono.com.baidu.mapapi.map.BaiduMap_OnMapClickListenerImplementor;mono.com.baidu.mapapi.map.BaiduMap_OnMapClickListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap/IOnMapDoubleClickListenerImplementor, XamarinBaiDuMapSDKBinding;mono.com.baidu.mapapi.map.BaiduMap_OnMapDoubleClickListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap+IOnMapDoubleClickListenerImplementor, XamarinBaiDuMapSDKBinding, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.baidu.mapapi.map.BaiduMap_OnMapDoubleClickListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap.IOnMapDoubleClickListenerImplementor;mono.com.baidu.mapapi.map.BaiduMap_OnMapDoubleClickListenerImplementor
+mono.com.baidu.mapapi.map.BaiduMap_OnMapDoubleClickListenerImplementor;mono.com.baidu.mapapi.map.BaiduMap_OnMapDoubleClickListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap/IOnMapLongClickListenerImplementor, XamarinBaiDuMapSDKBinding;mono.com.baidu.mapapi.map.BaiduMap_OnMapLongClickListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap+IOnMapLongClickListenerImplementor, XamarinBaiDuMapSDKBinding, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.baidu.mapapi.map.BaiduMap_OnMapLongClickListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap.IOnMapLongClickListenerImplementor;mono.com.baidu.mapapi.map.BaiduMap_OnMapLongClickListenerImplementor
+mono.com.baidu.mapapi.map.BaiduMap_OnMapLongClickListenerImplementor;mono.com.baidu.mapapi.map.BaiduMap_OnMapLongClickListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap/IOnMapStatusChangeListenerImplementor, XamarinBaiDuMapSDKBinding;mono.com.baidu.mapapi.map.BaiduMap_OnMapStatusChangeListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap+IOnMapStatusChangeListenerImplementor, XamarinBaiDuMapSDKBinding, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.baidu.mapapi.map.BaiduMap_OnMapStatusChangeListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap.IOnMapStatusChangeListenerImplementor;mono.com.baidu.mapapi.map.BaiduMap_OnMapStatusChangeListenerImplementor
+mono.com.baidu.mapapi.map.BaiduMap_OnMapStatusChangeListenerImplementor;mono.com.baidu.mapapi.map.BaiduMap_OnMapStatusChangeListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap/IOnMapTouchListenerImplementor, XamarinBaiDuMapSDKBinding;mono.com.baidu.mapapi.map.BaiduMap_OnMapTouchListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap+IOnMapTouchListenerImplementor, XamarinBaiDuMapSDKBinding, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.baidu.mapapi.map.BaiduMap_OnMapTouchListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap.IOnMapTouchListenerImplementor;mono.com.baidu.mapapi.map.BaiduMap_OnMapTouchListenerImplementor
+mono.com.baidu.mapapi.map.BaiduMap_OnMapTouchListenerImplementor;mono.com.baidu.mapapi.map.BaiduMap_OnMapTouchListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap/IOnMarkerClickListenerImplementor, XamarinBaiDuMapSDKBinding;mono.com.baidu.mapapi.map.BaiduMap_OnMarkerClickListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap+IOnMarkerClickListenerImplementor, XamarinBaiDuMapSDKBinding, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.baidu.mapapi.map.BaiduMap_OnMarkerClickListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap.IOnMarkerClickListenerImplementor;mono.com.baidu.mapapi.map.BaiduMap_OnMarkerClickListenerImplementor
+mono.com.baidu.mapapi.map.BaiduMap_OnMarkerClickListenerImplementor;mono.com.baidu.mapapi.map.BaiduMap_OnMarkerClickListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap/IOnMarkerDragListenerImplementor, XamarinBaiDuMapSDKBinding;mono.com.baidu.mapapi.map.BaiduMap_OnMarkerDragListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap+IOnMarkerDragListenerImplementor, XamarinBaiDuMapSDKBinding, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.baidu.mapapi.map.BaiduMap_OnMarkerDragListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap.IOnMarkerDragListenerImplementor;mono.com.baidu.mapapi.map.BaiduMap_OnMarkerDragListenerImplementor
+mono.com.baidu.mapapi.map.BaiduMap_OnMarkerDragListenerImplementor;mono.com.baidu.mapapi.map.BaiduMap_OnMarkerDragListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap/IOnMyLocationClickListenerImplementor, XamarinBaiDuMapSDKBinding;mono.com.baidu.mapapi.map.BaiduMap_OnMyLocationClickListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap+IOnMyLocationClickListenerImplementor, XamarinBaiDuMapSDKBinding, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.baidu.mapapi.map.BaiduMap_OnMyLocationClickListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap.IOnMyLocationClickListenerImplementor;mono.com.baidu.mapapi.map.BaiduMap_OnMyLocationClickListenerImplementor
+mono.com.baidu.mapapi.map.BaiduMap_OnMyLocationClickListenerImplementor;mono.com.baidu.mapapi.map.BaiduMap_OnMyLocationClickListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap/IOnPolylineClickListenerImplementor, XamarinBaiDuMapSDKBinding;mono.com.baidu.mapapi.map.BaiduMap_OnPolylineClickListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap+IOnPolylineClickListenerImplementor, XamarinBaiDuMapSDKBinding, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.baidu.mapapi.map.BaiduMap_OnPolylineClickListenerImplementor
+Com.Baidu.Mapapi.Map.BaiduMap.IOnPolylineClickListenerImplementor;mono.com.baidu.mapapi.map.BaiduMap_OnPolylineClickListenerImplementor
+mono.com.baidu.mapapi.map.BaiduMap_OnPolylineClickListenerImplementor;mono.com.baidu.mapapi.map.BaiduMap_OnPolylineClickListenerImplementor
+Com.Baidu.Mapapi.Map.InfoWindow/IOnInfoWindowClickListenerImplementor, XamarinBaiDuMapSDKBinding;mono.com.baidu.mapapi.map.InfoWindow_OnInfoWindowClickListenerImplementor
+Com.Baidu.Mapapi.Map.InfoWindow+IOnInfoWindowClickListenerImplementor, XamarinBaiDuMapSDKBinding, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.baidu.mapapi.map.InfoWindow_OnInfoWindowClickListenerImplementor
+Com.Baidu.Mapapi.Map.InfoWindow.IOnInfoWindowClickListenerImplementor;mono.com.baidu.mapapi.map.InfoWindow_OnInfoWindowClickListenerImplementor
+mono.com.baidu.mapapi.map.InfoWindow_OnInfoWindowClickListenerImplementor;mono.com.baidu.mapapi.map.InfoWindow_OnInfoWindowClickListenerImplementor
+Com.Baidu.Mapapi.Map.Offline.IMKOfflineMapListenerImplementor, XamarinBaiDuMapSDKBinding;mono.com.baidu.mapapi.map.offline.MKOfflineMapListenerImplementor
+Com.Baidu.Mapapi.Map.Offline.IMKOfflineMapListenerImplementor, XamarinBaiDuMapSDKBinding, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.baidu.mapapi.map.offline.MKOfflineMapListenerImplementor
+Com.Baidu.Mapapi.Map.Offline.IMKOfflineMapListenerImplementor;mono.com.baidu.mapapi.map.offline.MKOfflineMapListenerImplementor
+mono.com.baidu.mapapi.map.offline.MKOfflineMapListenerImplementor;mono.com.baidu.mapapi.map.offline.MKOfflineMapListenerImplementor
+Com.Baidu.Location.IBDLocationListenerImplementor, XamarinBaiDuMapSDKBinding;mono.com.baidu.location.BDLocationListenerImplementor
+Com.Baidu.Location.IBDLocationListenerImplementor, XamarinBaiDuMapSDKBinding, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.baidu.location.BDLocationListenerImplementor
+Com.Baidu.Location.IBDLocationListenerImplementor;mono.com.baidu.location.BDLocationListenerImplementor
+mono.com.baidu.location.BDLocationListenerImplementor;mono.com.baidu.location.BDLocationListenerImplementor
+Com.Baidu.Lbsapi.Auth.ILBSAuthManagerListenerImplementor, XamarinBaiDuMapSDKBinding;mono.com.baidu.lbsapi.auth.LBSAuthManagerListenerImplementor
+Com.Baidu.Lbsapi.Auth.ILBSAuthManagerListenerImplementor, XamarinBaiDuMapSDKBinding, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.baidu.lbsapi.auth.LBSAuthManagerListenerImplementor
+Com.Baidu.Lbsapi.Auth.ILBSAuthManagerListenerImplementor;mono.com.baidu.lbsapi.auth.LBSAuthManagerListenerImplementor
+mono.com.baidu.lbsapi.auth.LBSAuthManagerListenerImplementor;mono.com.baidu.lbsapi.auth.LBSAuthManagerListenerImplementor
